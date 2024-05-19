@@ -1,6 +1,3 @@
-Certainly! Here's the updated `README.md` file with your information:
-
-```markdown
 # Bill Scanner App
 
 ![Build Status](https://github.com/thanhtunguet/BillScanner.Android/workflows/Android%20CI/badge.svg)
@@ -83,10 +80,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For questions or suggestions, please open an issue or contact [ht@thanhtunguet.info](mailto:ht@thanhtunguet.info).
-```
-
-### Notes:
-
-- The badge URLs and repository URLs have been updated to match your GitHub username `thanhtunguet`.
-- Your contact email has been included in the "Contact" section.
-- Replace the placeholder text in any specific project details if necessary.
